@@ -77,3 +77,16 @@ ul {
     width: 300px;    
     }
 }
+@media screen and (max-width: 320px), screen and (max-height: 540px){
+     
+    body {
+        font-size: 26px;
+    }
+    h1 {
+        font-size: 42px;
+        margin-top: 20px;
+    }
+    .container {
+    margin: 10px auto;   
+    }
+}
