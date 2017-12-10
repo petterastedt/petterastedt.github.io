@@ -65,7 +65,7 @@ ul {
 }
 @media screen and (max-width: 440px) and (max-height: 680px){
     body {
-        font-size: 50px;
+        font-size: 30px;
     }
     h1 {
         font-size: 52px;
@@ -75,18 +75,5 @@ ul {
     .container {
     margin: 30px auto;
     width: 300px;    
-    }
-}
-@media screen and (max-width: 320px), screen and (max-height: 540px){
-     
-    body {
-        font-size: 26px;
-    }
-    h1 {
-        font-size: 42px;
-        margin-top: 20px;
-    }
-    .container {
-    margin: 10px auto;   
     }
 }
